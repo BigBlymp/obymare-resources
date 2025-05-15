@@ -18,7 +18,7 @@ pub fn fee_rate() -> Rational {
 }
 
 pub fn minimal_collateral_ratio() -> Rational {
-  (120, 100)
+  (130, 100)
 }
 
 pub fn critical_collateral_ratio() -> Rational {
